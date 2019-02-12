@@ -1,0 +1,32 @@
+{
+    "navigation": {
+        "manuals":
+        [
+            {
+                "name": "Приступая к работе",
+                "items": [
+                    {
+                        "path": "/manuals/introduction",
+                        "name": "Введение"
+                    },
+                    {
+                        "path": "/manuals/install",
+                        "name": "Установка Defold"
+                    },
+                    {
+                        "path": "/manuals/editor",
+                        "name": "Редактор"
+                    },
+                    {
+                        "path": "/manuals/community",
+                        "name": "Страницы сообщества"
+                    },
+                    {
+                        "path": "/manuals/glossary",
+                        "name": "Глоссарий"
+                    }
+                ]
+            }
+        ]
+    }
+}
